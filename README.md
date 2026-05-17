@@ -62,4 +62,6 @@ Telegram bot for getting Formula 1 information through external APIs.
 
 Backend development, automation, system design, problem decomposition, and building structured solutions for complex tasks.
 
-📫 Telegram: @kamar_kamar
+## 📫 Contacts
+Telegram: t.me/kamar_kamar
+VK: https://vk.com/k4mar_kam4r
