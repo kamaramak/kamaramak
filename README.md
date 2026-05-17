@@ -51,6 +51,7 @@ Telegram bot for getting Formula 1 information through external APIs.
 
 ## Currently
 
+- actively looking for a Python Backend Developer position
 - improving backend development skills
 - studying software architecture and API design
 - solving algorithmic problems on LeetCode and Codewars
@@ -63,5 +64,8 @@ Telegram bot for getting Formula 1 information through external APIs.
 Backend development, automation, system design, problem decomposition, and building structured solutions for complex tasks.
 
 ## 📫 Contacts
+
+🚀 Open to Python Backend Developer opportunities
+
 Telegram: t.me/kamar_kamar
 VK: https://vk.com/k4mar_kam4r
