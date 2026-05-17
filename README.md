@@ -13,6 +13,7 @@ Before IT, I worked in engineering and ergonomics research, where I organized te
 - Django / DRF
 - PostgreSQL
 - REST API
+- FAST API
 - Docker
 - Git
 - Linux
