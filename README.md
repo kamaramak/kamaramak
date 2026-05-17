@@ -1,6 +1,6 @@
 # Hi, I'm Marat 👋
 
-Backend developer focused on Python and Django.
+Backend developer
 
 I came into backend development through automation, system thinking, and solving complex engineering problems.  
 Before IT, I worked in engineering and ergonomics research, where I organized technical processes, analyzed large amounts of data, and automated repetitive workflows.
