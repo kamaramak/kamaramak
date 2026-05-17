@@ -1,4 +1,4 @@
-# Hi, I'm Marat рџ‘‹
+# Hi, I'm Marat 👋
 
 Backend developer focused on Python and Django.
 
@@ -21,7 +21,7 @@ Before IT, I worked in engineering and ergonomics research, where I organized te
 
 ## Projects
 
-### рџЌі Foodgram
+### 🍳 Foodgram
 
 Backend web application for publishing recipes.
 
@@ -31,11 +31,11 @@ Backend web application for publishing recipes.
 - Docker / Gunicorn / Nginx
 - subscriptions, favorites, shopping cart
 
-рџ”— Repository: https://github.com/kamaramak/foodgram
+🔗 Repository: https://github.com/kamaramak/foodgram
 
 ---
 
-### рџЏЋ Formula 1 Telegram Bot
+### 🏎 Formula 1 Telegram Bot
 
 Telegram bot for getting Formula 1 information through external APIs.
 
@@ -45,7 +45,7 @@ Telegram bot for getting Formula 1 information through external APIs.
 - inline buttons
 - API integrations
 
-рџ”— Repository: https://github.com/kamaramak/F1-bot
+🔗 Repository: https://github.com/kamaramak/F1-bot
 
 ---
 
@@ -62,4 +62,4 @@ Telegram bot for getting Formula 1 information through external APIs.
 
 Backend development, automation, system design, problem decomposition, and building structured solutions for complex tasks.
 
-рџ“« Telegram: @kamar_kamar
+📫 Telegram: @kamar_kamar
