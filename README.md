@@ -32,7 +32,7 @@ Backend web application for publishing recipes.
 - Docker / Gunicorn / Nginx
 - subscriptions, favorites, shopping cart
 
-🔗 Repository: https://github.com/kamaramak/foodgram
+🔗 Repository: https://github.com/kamaramak/Python_Developer/tree/main/Foodgram
 
 ---
 
@@ -47,7 +47,7 @@ Backend system for a charity fund collecting donations to support cats in need.
 - JWT authentication
 - automatic donation distribution logic
 
-🔗 Repository: https://github.com/kamaramak/cat-charity
+🔗 Repository: https://github.com/kamaramak/Python_Developer/tree/main/QRKot
 
 ---
 
@@ -61,7 +61,7 @@ Telegram bot for getting Formula 1 information through external APIs.
 - inline buttons
 - API integrations
 
-🔗 Repository: https://github.com/kamaramak/F1-bot
+🔗 Repository: https://github.com/kamaramak/Python_Developer/tree/main/F1-bot
 
 ---
 
