@@ -51,6 +51,21 @@ Backend system for a charity fund collecting donations to support cats in need.
 
 ---
 
+### ✂️ YaCut — URL Shortener Service
+
+Service for generating short links from long URLs and files.
+
+- Flask
+- SQLite
+- REST API
+- file upload & download
+- custom short links
+- environment variables (dotenv)
+
+🔗 Repository: https://github.com/kamaramak/async-yacut
+
+---
+
 ### 🏎 Formula 1 Telegram Bot
 
 Telegram bot for getting Formula 1 information through external APIs.
