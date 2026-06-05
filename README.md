@@ -62,7 +62,7 @@ Service for generating short links from long URLs and files.
 - custom short links
 - environment variables (dotenv)
 
-🔗 Repository: https://github.com/kamaramak/async-yacut
+🔗 Repository: https://github.com/kamaramak/Python_Developer/tree/main/YaCut
 
 ---
 
