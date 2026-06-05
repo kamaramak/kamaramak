@@ -36,6 +36,21 @@ Backend web application for publishing recipes.
 
 ---
 
+### 🐱 QRKot — Charity Donation Platform
+
+Backend system for a charity fund collecting donations to support cats in need.
+
+- FastAPI
+- SQLAlchemy (async)
+- Pydantic
+- Alembic
+- JWT authentication
+- automatic donation distribution logic
+
+🔗 Repository: https://github.com/kamaramak/cat-charity
+
+---
+
 ### 🏎 Formula 1 Telegram Bot
 
 Telegram bot for getting Formula 1 information through external APIs.
